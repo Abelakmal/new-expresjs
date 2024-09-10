@@ -1,0 +1,27 @@
+node_modules
+README.md
+LICENSE
+
+#test
+
+tests
+jest.config.rts2_cache_cjs
+babel.config.cjs
+
+# Abaikan file log
+*.log
+
+
+# Abaikan file konfigurasi IDE atau editor
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Abaikan file hasil build yang tidak perlu
+dist
+build
+
+# Abaikan file sistem operasi
+.DS_Store
+Thumbs.db
